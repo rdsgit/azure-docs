@@ -79,7 +79,7 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 
 	![The Certificate download link](common/certificatebase64.png)
 
-1. On the **Set up In Case of Crisis - Online Portal** section, copy the appropriate URL(s) based on your requirement.
+1. Navigate to the **Manage** section on the left side of the page, click on the **Properties tab**, then copy the **User access URL** and save it on your computer.
 
 	![Copy configuration URLs](common/copy-configuration-urls.png)
 
