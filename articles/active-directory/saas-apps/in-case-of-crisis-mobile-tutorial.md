@@ -75,11 +75,11 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 
 1. On the **Basic SAML Configuration** section the application is pre-configured in **IDP** initiated mode and the necessary URLs are already pre-populated with Azure. The user needs to save the configuration by clicking the **Save** button.
 
-1. On the **Set up single sign-on with SAML** page, in the **SAML Signing Certificate** section,  find **Certificate (Raw)** and select **Download** to download the certificate and save it on your computer.
+1. On the **Set up single sign-on with SAML** page, in the **SAML Signing Certificate** section, find **Certificate (Base64)** and select **Download** to download the certificate and save it on your computer.
 
 	![The Certificate download link](common/certificateraw.png)
 
-1. Navigate to the **Manage** section on left side of page, click on **Properties tab** then copy the **User access URL** and save it on your computer.
+1. Navigate to the **Manage** section on the left side of the page, click on the **Properties tab**, then copy the **User access URL** and save it on your computer.
 
 	![Single sign-on properties](./media/in-case-of-crisis-mobile-tutorial/properties.png)
 
